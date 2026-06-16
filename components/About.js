@@ -62,8 +62,8 @@ export default function About() {
                 },
                 {
                   year:  '2025',
-                  title: 'Jeonbuk National University',
-                  desc:  'MSc in Computer Science / AI. Focus on computer vision and medical imaging.',
+                  title: 'Kyungdong Global University',
+                  desc:  'MSc in AI and Data Science. Focus on computer vision and medical imaging.',
                   tag:   'Education',
                   color: 'amber',
                 },
