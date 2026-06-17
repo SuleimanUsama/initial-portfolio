@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>[Your Name] — AI Researcher</title>
+        <title>Suleiman Usama — AI Researcher</title>
         <meta name="description" content="AI researcher focused on deep learning for healthcare and infrastructure in African contexts. Jeonbuk National University, South Korea." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
