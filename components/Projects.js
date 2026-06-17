@@ -12,7 +12,7 @@ const projects = [
     ],
     accent:  '#00D4AA',
     github:  'https://github.com/SuleimanUsama/sickle-cell-thesis',
-    demo:    null,
+    demo:    'https://huggingface.co/spaces/AllyCasano/scd-detection',
     status:  'Thesis · 2026',
   },
   {
