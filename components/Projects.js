@@ -149,7 +149,7 @@ export default function Projects() {
             </h2>
           </div>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/SuleimanUsama"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex items-center gap-2 text-sm font-body text-muted hover:text-offwhite transition-colors"
