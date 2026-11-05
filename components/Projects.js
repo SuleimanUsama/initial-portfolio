@@ -44,7 +44,7 @@ const projects = [
     ],
     accent:  '#00D4AA',
     github:  'https://github.com/SuleimanUsama/sleep-activity-analysis',
-    demo:    null,
+    demo:    'https://suleimanusama.github.io/Sleep-Demo/',
     status:  'Research · 2025',
   },
 ]
