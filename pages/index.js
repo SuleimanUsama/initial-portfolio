@@ -16,7 +16,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         {/* Open Graph */}
-        <meta property="og:title"       content="[Your Name] — AI Researcher" />
+        <meta property="og:title"       content="Suleiman Usama — AI Researcher" />
         <meta property="og:description" content="Building AI that works where it matters. SCD detection, computer vision, African healthcare context." />
         <meta property="og:type"        content="website" />
 
